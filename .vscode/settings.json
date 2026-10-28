@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "/home/bigboss/Documentos/DEV/Projetos/Luma_app/luma_app/linux"
+}

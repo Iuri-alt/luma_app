@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Fundo do ícone adaptativo (flutter_launcher_icons, pubspec.yaml) -->
+    <color name="ic_launcher_background">#EC3013</color>
+    <!-- Mesmo fundo do tema escuro (AppColors.background), para a abertura não piscar -->
+    <color name="luma_fundo">#201E1D</color>
+</resources>

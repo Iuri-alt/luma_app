@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Recursos buscados só pelo nome, que a otimização da versão release apagaria:
+     o ícone da notificação (main.dart) e os botões do audio_service. Sem eles
+     a notificação de música não aparece. -->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:keep="@drawable/ic_notificacao,@drawable/audio_service_*" />
